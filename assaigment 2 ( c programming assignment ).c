@@ -16,10 +16,10 @@ password. The function must check for the following conditions.
 
 Conditions:
 
-• Satisfying all the above conditions can return 9 (strongest password)
-• Satisfying none of the conditions above returns 0 (weakest password)
-• Have a score for each condition and accordingly calculate the final rank.
-• The function must return the rank as an integer which can the be checked in the main function.
+â€¢ Satisfying all the above conditions can return 9 (strongest password)
+â€¢ Satisfying none of the conditions above returns 0 (weakest password)
+â€¢ Have a score for each condition and accordingly calculate the final rank.
+â€¢ The function must return the rank as an integer which can the be checked in the main function.
 Function Prototype:
 
 int check_password(char  *password);
